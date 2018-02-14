@@ -1,0 +1,12 @@
+Feld(wichtig):
+Textur(hintergrund)
+Koordinaten
+Farbe(Schwarz/Weiss)
+
+Figuren(wichtig):
+Textur(vordergrund)
+Moegliche Zuege (evtl. Interaktion)
+Sonderfall (Koenig stirbt Spielende, Bauer kann sich auf dem letzten Feld in tote Figur verwandeln)
+Interaktion von Figuren (Eigene: Rochade(ist Zug!), kann sonst kein Feld mit eigener Figur betreten(verhindert Zug!). Fremde: schlagen(ist Zug!), Schachmatt(Spielende))
+
+KI:
